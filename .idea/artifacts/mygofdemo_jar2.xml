@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mygofdemo:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/mygofdemo_jar2</output-path>
+    <root id="archive" name="mygofdemo.jar">
+      <element id="module-output" name="mygofdemo" />
+    </root>
+  </artifact>
+</component>
